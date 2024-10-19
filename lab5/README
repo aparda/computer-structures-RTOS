@@ -1,0 +1,18 @@
+This is the MTE241 Lab5 starter project. It contains SIM And RAM targets.
+
+You need to complete two files and they are README_Target.csv and general.c.
+
+If your project works on simulator, put Y under the SIM column in READEME_Target.csv file. Otherwise put N under SIM column.
+If your project works on the actual hardware, put Y under the RAM column in README_Target.csv file.csv. Otherwise put N under RAM column.
+You should put your solution in the general.c file. 
+
+The following files should not be modified.
+* final.c
+* general.h
+
+The rest of files usually do not require modification though if you wish you are allowed to modify them with caution. 
+If your code size is too big to compile and you have attempted all other opssible method to reduce the code size, 
+then you may modify the following two files as the last resort.
+
+* RTX_Config.h
+* startup_LPC17xx.s

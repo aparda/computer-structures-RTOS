@@ -1,0 +1,14 @@
+AE241-L5 start
+
+AE241-L5 test case 0 start
+n > 3m failed.setup failed
+AE241-L5 test case 0 end
+
+AE241-L5 test case 1 start
+1:0:A
+3:0:R
+AE241-L5 test case 1 end
+
+AE241-L5 test case 2 start
+0:1:R
+3:1:A
